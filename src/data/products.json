@@ -1,0 +1,74 @@
+[
+        {
+            "id":1,
+            "name":"Flannel Long Sleeve Shirt",
+            "rating":5.0,
+            "sku": "0011-001",
+            "brandname": "Uniqlo",
+            "discount": "-25%",
+            "price": "RM70.00",
+            "discountedPrice": "RM52.50",
+            "colors": ["brown", "navy"],
+            "size": ["S","M","L"],
+            "image": [
+                        "https://image.uniqlo.com/UQ/ST3/my/imagesgoods/441779/item/mygoods_39_441779.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441779/sub/goods_441779_sub13.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441779/sub/goods_441779_sub9.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441779/sub/goods_441779_sub10.jpg?width=1600&impolicy=quality_75"
+                    ]
+        },        
+        {
+            "id":2,
+            "name":"Wool Wide Pants",
+            "rating":3.9,
+            "sku": "0021-001",
+            "brandname": "Uniqlo",
+            "discount": "-10%",
+            "price": "RM150.00",
+            "discountedPrice": "RM135.00",
+            "colors": ["yellow", "navy"],
+            "size": ["61cm","67cm","70cm"],
+            "image": [
+                        "https://image.uniqlo.com/UQ/ST3/my/imagesgoods/442708/sub/mygoods_442708_sub3.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/442708/sub/goods_442708_sub9.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441779/sub/goods_441779_sub9.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441779/sub/goods_441779_sub10.jpg?width=1600&impolicy=quality_75"
+                    ]
+        },
+        {
+            "id":3,
+            "name":"Knit Lace-Up Sneakers",
+            "rating":4.8,
+            "sku": "0101-038",
+            "brandname": "Uniqlo",
+            "discount": "-5%",
+            "price": "RM125.00",
+            "discountedPrice": "RM118.75",
+            "colors": ["white", "black"],
+            "size": ["39","40","41"],
+            "image": [
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433775/sub/goods_433775_sub7.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433775/sub/goods_433775_sub8.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433775/sub/goods_433775_sub10.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433775/sub/goods_433775_sub20.jpg?width=1600&impolicy=quality_75"
+                    ]
+        },        
+        {
+            "id":4,
+            "name":"Padded Shirt Jacket",
+            "rating":4.3,
+            "sku": "0041-065",
+            "brandname": "Uniqlo",
+            "discount": "-10%",
+            "price": "RM90.00",
+            "discountedPrice": "RM81.00",
+            "colors": ["grey", "blue", "green"],
+            "size": ["S","M"],
+            "image": [
+                        "https://image.uniqlo.com/UQ/ST3/my/imagesgoods/441421/sub/mygoods_441421_sub6.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441421/sub/goods_441421_sub10.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441421/sub/goods_441421_sub13.jpg?width=1600&impolicy=quality_75",
+                        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441421/sub/goods_441421_sub18.jpg?width=1600&impolicy=quality_75"
+                    ]
+        }
+    ]

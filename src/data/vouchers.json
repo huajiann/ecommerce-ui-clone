@@ -1,0 +1,26 @@
+[
+        {
+            "id":1,
+            "name": "Monday Happy",
+            "code": "#MONHPY",
+            "discount": 20
+        },
+        {
+            "id":2,
+            "name": "Payday Surprise",
+            "code": "#SRPSPYDY",
+            "discount": 20
+        },
+        {
+            "id":3,
+            "name": "First Order",
+            "code": "#HPYFRST",
+            "discount": 20
+        },
+        {
+            "id":4,
+            "name": "Vegetarian Food",
+            "code": "#VEGANLOVE",
+            "discount" : 20
+        }
+    ]
