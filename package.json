@@ -1,5 +1,5 @@
 {
-  "homepage": "https://huajiann.github.io/ecommerce-ui-clone/",
+  "homepage": "https://huajiann.github.io/ecommerce-ui-clone",
   "name": "ecommerce-airasia",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
