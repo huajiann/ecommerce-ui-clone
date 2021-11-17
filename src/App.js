@@ -5,7 +5,7 @@ import { Home } from "./components/home/Home";
 function App() {
   return (
     <React.Fragment>
-      <Router>
+      <Router basename={window.location.pathname || ""}>
         <Route path="/" exact>
           <Home />
         </Route>
