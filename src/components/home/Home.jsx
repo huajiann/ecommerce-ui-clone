@@ -1,16 +1,13 @@
 import React, { useState } from "react";
-import Navbar from "../navbar/Navbar";
-import CarouselHeader from "./carousel/CarouselHeader";
+import Navbar from "./Navbar";
+import CarouselHeader from "./CarouselHeader";
 import * as BiIcons from 'react-icons/bi';
-import Countdown from "./Countdown/Countdown";
+import Countdown from "./Countdown";
 import Card from "./Card";
 import CouponsCard from "../CouponsCard";
 
 
 export const Home = () => {
-  const [popup, setPopup] = useState();
-
-
   return (
     <div className="mainContent">
       <Navbar/>

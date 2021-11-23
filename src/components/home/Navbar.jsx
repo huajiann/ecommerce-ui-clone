@@ -43,39 +43,39 @@ const Navbar = () => {
                     </button>
                 </div>
             </div>
-            <nav className="nav">
-                <ul className="nav__list">
-                    <li className="nav__item">
+            <nav className="bottom">
+                <ul className="bottom__list">
+                    <li className="bottom__item">
                         <a>Top</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Bottom</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Swim wear</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Watch</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Shoes</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Bag</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Shoes</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Accessories</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Sports</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Cosmetic</a>
                     </li>
-                    <li className="nav__item">
+                    <li className="bottom__item">
                         <a>Muslim Wear</a>
                     </li>
                 </ul>
